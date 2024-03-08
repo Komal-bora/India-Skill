@@ -4,4 +4,5 @@ According to guidelines of the competion, the participants had to create a websi
 I created a website on the theme women empowerment. 
 
 link for the website
-https://komal-bora.github.io/India-Skill/women%20emp/
+
+https://komal-bora.github.io/skill-india/women%20emp/
