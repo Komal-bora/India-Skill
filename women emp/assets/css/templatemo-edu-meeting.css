@@ -1418,7 +1418,7 @@ heading page
 ---------------------------------------------
 */
 .heading-page {
-  background-image: url('../images/profession.jpg');
+  /* background-image: url('../images/profession.jpg'); */
   background-size: cover;
   background-position: center;
   color: white; /* Optionally, adjust text color for better visibility */
@@ -1477,7 +1477,7 @@ section.meetings-page {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 230px;
+  padding-top: 140px;
   padding-bottom: 110px;
 }
 
