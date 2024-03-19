@@ -5,4 +5,4 @@ I created a responsive website on the theme women empowerment.
 The technologies used to create the website are HTML, CSS, Bootstrap, JavaScript. 
 The website is hosted on GitHub pages and can be viewed in different devices. 
 
-You can access the website (http://www.womenempowermy city.com).
+You can access the website (https://komal-bora.github.io/skill-india/women%20emp/).
