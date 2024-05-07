@@ -1,4 +1,4 @@
-#Skill India Competition
+Skill India Competition
 
 According to guidelines of the competition, the participants had to create a website.
 I created a responsive website on the theme women empowerment. 
